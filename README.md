@@ -10,13 +10,13 @@
 </div>
 
 </br>
-
+</br> 
 1- Criado o bucket "elvisterraform" para receber os arquivos dos estados
 
 ![](img/02-bucket-criado.PNG) 
 
 </br>
-2- incluido no script o bucket "elvisterraform" e auterado o nome na instancia para "cloudbuildterraform"
+2- incluído no script o bucket "elvisterraform" e auterado o nome na instância para "cloudbuildterraform"
 
 ![](img/01-criando-bucket.PNG) 
 
@@ -63,7 +63,7 @@
 ![](img/15-Build-History-ok.PNG) 
 
 </br>
-09- Instancia VM cloudbuildterraform criada
+09- Instância VM cloudbuildterraform criada
 
 ![](img/16-VM-Criada.PNG) 
 
